@@ -50,7 +50,7 @@ Contributions to the Sudoku game project are welcome. Please feel free to fork t
 
 ## License
 
-This project is open source and available under the [LICENSE.md](LICENSE.md).
+This project is open source and available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
