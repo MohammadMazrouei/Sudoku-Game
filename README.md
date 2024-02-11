@@ -1,7 +1,7 @@
 
 # Sudoku Game
 
-This project is a Sudoku puzzle game developed using the Qt framework. It provides a graphical user interface for playing Sudoku, featuring various difficulty levels, a leaderboard for high scores, and an endgame screen for when puzzles are completed.
+This project is a Sudoku puzzle game developed using the Qt framework. It provides a graphical user interface for playing Sudoku, featuring a leaderboard for high scores, and an endgame screen for when puzzles are completed.
 
 ## Features
 
@@ -55,4 +55,4 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Thanks to the Qt framework for providing the tools to build the GUI.
-- Appreciation for anyone who's contributed to the project.
+- Thanks to all contributors and players.
