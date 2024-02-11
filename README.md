@@ -7,7 +7,7 @@ This project is a Sudoku puzzle game developed using the Qt framework. It provid
 
 - Interactive Sudoku puzzles with various difficulty levels.
 - Leaderboard to track and display high scores.
-- Endgame screen to celebrate puzzle completion or to challenge the player to improve their time.
+- Endgame screen to celebrate puzzle completion.
 
 ## Prerequisites
 
@@ -23,7 +23,7 @@ To get started with the Sudoku Game, clone this repository to your local machine
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/yourusername/Sudoku-Game.git
+git clone https://github.com/MohammadMazrouei/Sudoku-Game.git
 cd Sudoku-Game
 ```
 
@@ -46,11 +46,11 @@ This will compile the project. You can then run the Sudoku game executable gener
 
 ## Contributing
 
-Contributions to the Sudoku Game project are welcome! Please read through our contributing guidelines to learn about our submission process, coding standards, and more.
+Contributions to the Sudoku game project are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is open source and available under the [LICENSE.md](LICENSE.md).
 
 ## Acknowledgments
 
