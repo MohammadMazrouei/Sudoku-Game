@@ -5,7 +5,7 @@ This project is a Sudoku puzzle game developed using the Qt framework. It provid
 
 ## Images of Game
 
-![Main Window](/images/mainwindow.png)
+![Main Window](/images/main_window.png)
 
 ![Sudoko Window](/images/sudoku.png)
 
