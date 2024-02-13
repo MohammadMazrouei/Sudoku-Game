@@ -3,6 +3,12 @@
 
 This project is a Sudoku puzzle game developed using the Qt framework. It provides a graphical user interface for playing Sudoku, featuring a leaderboard for high scores, and an endgame screen for when puzzles are completed.
 
+## Images of Game
+
+![Main Window](/images/mainwindow.png)
+
+![Sudoko Window](/images/sudoku.png)
+
 ## Features
 
 - Interactive Sudoku puzzles with various difficulty levels.
